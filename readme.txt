@@ -1,0 +1,5 @@
+To run the game:
+	in console do: python3 theGameOfNuts.py
+
+How to play the game:
+In this game you will be taking nuts off of a table and the person who takes the last one off loses. To start type in the amount of nuts that will be on the table to start (an integer between 10 and 100), then press enter. Next indicate which game you would like to play. type 1 for the player vs player game, type 2 for the player vs computer game, type 3 for the player vs trained computer game. once your selection is made press enter.  if you have selected the game against the trained computer it may take a moment to load. now when prompted type the amount of nuts you would like to take from the table (either 1,2 or 3), once your selection is made press enter. after the game is over you will be prompted to play again. type 1 to play another game or type 2 to quit. once your selection is made confirm it by pressing enter.
